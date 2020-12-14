@@ -59,7 +59,6 @@
             this.btnSiete.TabIndex = 17;
             this.btnSiete.Text = "7";
             this.btnSiete.UseVisualStyleBackColor = true;
-            this.btnSiete.Click += new System.EventHandler(this.btnSiete_Click);
             // 
             // btnOcho
             // 
@@ -70,7 +69,6 @@
             this.btnOcho.TabIndex = 1;
             this.btnOcho.Text = "8";
             this.btnOcho.UseVisualStyleBackColor = true;
-            this.btnOcho.Click += new System.EventHandler(this.btnOcho_Click);
             // 
             // btnNueve
             // 
@@ -81,7 +79,6 @@
             this.btnNueve.TabIndex = 2;
             this.btnNueve.Text = "9";
             this.btnNueve.UseVisualStyleBackColor = true;
-            this.btnNueve.Click += new System.EventHandler(this.btnNueve_Click);
             // 
             // btnDivide
             // 
@@ -92,7 +89,6 @@
             this.btnDivide.TabIndex = 3;
             this.btnDivide.Text = "÷";
             this.btnDivide.UseVisualStyleBackColor = true;
-            this.btnDivide.Click += new System.EventHandler(this.btnDivide_Click);
             // 
             // btnLimpiar
             // 
@@ -103,7 +99,6 @@
             this.btnLimpiar.TabIndex = 4;
             this.btnLimpiar.Text = "Clear";
             this.btnLimpiar.UseVisualStyleBackColor = true;
-            this.btnLimpiar.Click += new System.EventHandler(this.btnLimpiar_Click);
             // 
             // btnCuatro
             // 
@@ -114,7 +109,6 @@
             this.btnCuatro.TabIndex = 5;
             this.btnCuatro.Text = "4";
             this.btnCuatro.UseVisualStyleBackColor = true;
-            this.btnCuatro.Click += new System.EventHandler(this.btnCuatro_Click);
             // 
             // btnCinco
             // 
@@ -125,7 +119,6 @@
             this.btnCinco.TabIndex = 6;
             this.btnCinco.Text = "5";
             this.btnCinco.UseVisualStyleBackColor = true;
-            this.btnCinco.Click += new System.EventHandler(this.btnCinco_Click);
             // 
             // btnSeis
             // 
@@ -136,7 +129,6 @@
             this.btnSeis.TabIndex = 7;
             this.btnSeis.Text = "6";
             this.btnSeis.UseVisualStyleBackColor = true;
-            this.btnSeis.Click += new System.EventHandler(this.btnSeis_Click);
             // 
             // btnMultiplica
             // 
@@ -147,7 +139,6 @@
             this.btnMultiplica.TabIndex = 8;
             this.btnMultiplica.Text = "×";
             this.btnMultiplica.UseVisualStyleBackColor = true;
-            this.btnMultiplica.Click += new System.EventHandler(this.btnMultiplica_Click);
             // 
             // btnResultado
             // 
@@ -158,7 +149,6 @@
             this.btnResultado.TabIndex = 9;
             this.btnResultado.Text = "=";
             this.btnResultado.UseVisualStyleBackColor = true;
-            this.btnResultado.Click += new System.EventHandler(this.btnResultado_Click);
             // 
             // btnUno
             // 
@@ -169,7 +159,6 @@
             this.btnUno.TabIndex = 10;
             this.btnUno.Text = "1";
             this.btnUno.UseVisualStyleBackColor = true;
-            this.btnUno.Click += new System.EventHandler(this.btnUno_Click);
             // 
             // btnDos
             // 
@@ -180,7 +169,6 @@
             this.btnDos.TabIndex = 11;
             this.btnDos.Text = "2";
             this.btnDos.UseVisualStyleBackColor = true;
-            this.btnDos.Click += new System.EventHandler(this.btnDos_Click);
             // 
             // btnTres
             // 
@@ -191,7 +179,6 @@
             this.btnTres.TabIndex = 12;
             this.btnTres.Text = "3";
             this.btnTres.UseVisualStyleBackColor = true;
-            this.btnTres.Click += new System.EventHandler(this.btnTres_Click);
             // 
             // btnResta
             // 
@@ -202,7 +189,6 @@
             this.btnResta.TabIndex = 13;
             this.btnResta.Text = "-";
             this.btnResta.UseVisualStyleBackColor = true;
-            this.btnResta.Click += new System.EventHandler(this.btnResta_Click);
             // 
             // btnCero
             // 
@@ -213,7 +199,6 @@
             this.btnCero.TabIndex = 14;
             this.btnCero.Text = "0";
             this.btnCero.UseVisualStyleBackColor = true;
-            this.btnCero.Click += new System.EventHandler(this.btnCero_Click);
             // 
             // btnDecinal
             // 
@@ -224,7 +209,6 @@
             this.btnDecinal.TabIndex = 15;
             this.btnDecinal.Text = ",";
             this.btnDecinal.UseVisualStyleBackColor = true;
-            this.btnDecinal.Click += new System.EventHandler(this.btnDecinal_Click);
             // 
             // btnSuma
             // 
@@ -235,7 +219,6 @@
             this.btnSuma.TabIndex = 16;
             this.btnSuma.Text = "+";
             this.btnSuma.UseVisualStyleBackColor = true;
-            this.btnSuma.Click += new System.EventHandler(this.btnSuma_Click);
             // 
             // txtValorPantalla
             // 
@@ -263,7 +246,6 @@
             this.btnHistorial.TabIndex = 19;
             this.btnHistorial.Text = "Ver Historial";
             this.btnHistorial.UseVisualStyleBackColor = true;
-            this.btnHistorial.Click += new System.EventHandler(this.btnHistorial_Click);
             // 
             // FormCalculator
             // 
