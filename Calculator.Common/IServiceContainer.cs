@@ -9,6 +9,7 @@ namespace Calculator.Common
 
     public class Programa
     {
+        
         //METODO SUMA
         static int Suma(int num1, int num2)
         {
